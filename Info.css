@@ -1,0 +1,56 @@
+
+
+.Titulo {
+    position: absolute;
+    width: 433px;
+    height: 100px;
+    left: 91px;
+    top: 132px;
+    
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 98px;
+    
+    color: #153B50;
+}
+
+.Subtitulo {
+    position: absolute;
+    width: 206px;
+    height: 19px;
+    left: 91px;
+    top: 232px;
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    
+    color: #000000;
+}
+.info-Texto {
+    position: absolute;
+    width: 614px;
+    height: 332px;
+    left: 91px;
+    top: 305px;
+    
+  
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    
+    color: #000000;
+    
+}
+.Programando {
+    position: absolute;
+    width: 532px;
+    height: 287px;
+    left: 1100px;
+    top: 209px;
+
+}

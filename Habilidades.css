@@ -1,0 +1,113 @@
+.Wp {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 650px;
+    top: 628px;     
+
+}
+.Figma {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 950px;
+    top: 626px;
+}
+.Html5 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 1250px;
+    top: 628px; 
+}
+.Css3 {
+    position: absolute;
+    width: 100px;
+    height: 124.82px;
+    left: 1550px;
+    top: 616px;
+}
+
+.Wp-P {
+    position: absolute;
+    width: 200px;
+    height: 25px;
+    left: 600px;
+    top: 859px;
+}
+.Figma-P {
+    position: absolute;
+    width: 201px;
+    height: 25px;
+    left: 900px;
+    top: 859px;
+}
+
+
+.Html5-P {
+    position: absolute;
+    width: 200px;
+    height: 25px;
+    left:  1200px;
+    top: 859px;
+}
+.Css3-P {
+    position: absolute;
+    width: 200px;
+    height: 25px;
+    left: 1500px;
+    top: 859px;
+
+}
+
+.P-s {
+    position: absolute;
+    width: 52px;
+    height: 33px;
+    left: 680px;
+    top: 804px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;  
+}
+.P-e {
+    position: absolute;
+    width: 49px;
+    height: 33px;
+    left: 980px;
+    top: 804px;
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+}
+.P-c {
+    position: absolute;
+    width: 55px;
+    height: 33px;
+    left: 1280px;
+    top: 804px;
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+}
+.P-t {
+    position: absolute;
+    width: 55px;
+    height: 33px;
+    left: 1580px;
+    top: 804px;
+
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+
